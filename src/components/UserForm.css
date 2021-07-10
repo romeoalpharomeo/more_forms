@@ -1,0 +1,11 @@
+.form-item {
+    margin: 15px;
+    width: 90%;
+    background-color: grey;
+    border-radius: 10px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
